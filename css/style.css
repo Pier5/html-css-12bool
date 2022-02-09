@@ -1,0 +1,38 @@
+[class*="col-"] {
+    height: 50px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #006cfa;
+}
+
+h1 {
+    font-size: 1.2rem;
+    margin-bottom: .5rem;
+}
+
+.row {
+    background-color: #006cfa;
+}
+
+.text {
+    color: white;
+    font-size: .9rem;
+}
+
+.big {
+    height: 80px;
+    padding: 0 1rem;
+}
+
+.green {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+}
+
+
+
+
+
+
