@@ -7,10 +7,6 @@
     background-color: #006cfa;
 }
 
-[class*="col-offset-"] {
-    background-color: white;
-}
-
 h1 {
     font-size: 1.2rem;
     margin-bottom: .5rem;
